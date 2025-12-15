@@ -1,0 +1,11 @@
+cassio
+datasets
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+openai
+tiktoken
+PyPDF2
+python-dotenv
+pyasyncore
